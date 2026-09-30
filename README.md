@@ -5,3 +5,7 @@ A simple Python script using functions, conditional statements, and Boolean valu
 Expected Terminal Output:
 textwelcome! you can watch this movie in Ultra HD
 please buy a subscription
+.
+- Project 2: Instagram Profile Checker
+  A simple Python script using Dictionaries to manage and display user profile data (username, followers count, privacy status). It practices basic dictionary operations like adding, deleting, and updating keys.
+  Expected Terminal Output: Displays keys and values dynamically along with safety warnings.
